@@ -22,6 +22,8 @@
  3. Draft your diagrams using the syntax provided in the documentation or experiment with the [live editor](https://mermaid-js.github.io/mermaid-live-editor/).
  4. Embed the Mermaid code in your Markdown and render it to see your diagrams come to life.
 
+ > Note: a really useful tool to get started with Mermaid is the [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/). It allows you to write your Mermaid code and see the diagram take shape in real-time.
+
  ## Detailed Guide to Creating Flowcharts with Mermaid
  As outlined in the [CKEditor blog post](https://ckeditor.com/blog/basic-overview-of-creating-flowcharts-using-mermaid/), creating flowcharts with Mermaid is straightforward. Here'  a simplified process:
  1. **Define the Flowchart:** Start by outlining the steps and decisions within the process you want to visualize.
